@@ -4,4 +4,6 @@
 
 ## Welcome! 👋
 
+The Challenge: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJgit
 
+Live Demo: https://testimonials-grid-section-iota.vercel.app/
