@@ -91,10 +91,12 @@ p {
    opacity: 70%;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 500px) {
    .container {
       display: flex;
       flex-direction: column;
+      width: 100%;
+      padding: 4rem 1.5rem;
    }
    .article-3 {
       order: 5;
